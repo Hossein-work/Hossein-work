@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Hossein 👋
 
-<!--
-**Hossein-work/Hossein-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Currently learning **C#**
+- 🎮 Interested in **Game Development**
+- 🤖 Interested in building **Telegram Bots**
+- 📱 Interested in building **Android & Windows Applications**
+- 📫 How to reach me: [hosseinh.office@gmail.com](mailto:your-email@example.com)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intermediate
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Beginner
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## GitHub Stats
+![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein-work&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [Hossein-work](https://github.com/Hossein-work)
