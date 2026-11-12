@@ -17,9 +17,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## GitHub Stats
-![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein-work&show_icons=true&theme=radical)
-
 ---
 
 ⭐️ From [Hossein-work](https://github.com/Hossein-work)
