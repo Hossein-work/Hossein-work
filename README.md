@@ -5,7 +5,7 @@
 - 🎮 Interested in **Game Development**
 - 🤖 Interested in building **Telegram Bots**
 - 📱 Interested in building **Android & Windows Applications**
-- 📫 How to reach me: [hosseinh.office@gmail.com](mailto:your-email@example.com)
+- 📫 How to reach me: hosseinh.office@gmail.com
 
 ## Skills
 
